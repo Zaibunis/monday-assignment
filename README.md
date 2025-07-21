@@ -1,7 +1,7 @@
 # 📝 OpenAI Agents Assignments
 This repository includes three mini-projects using the OpenAI Agents SDK, each demonstrating a unique agent use-case with tools, orchestration, and agent handoff logic.
 
-**⿡ Smart Store Agent**
+# ⿡ Smart Store Agent
 📄 File: product_suggester.py
 
 **🔍 Description**
@@ -62,7 +62,8 @@ User: Pakistan
 uv run country_info_toolkit.py
 ```
 
-📦 Requirements
+# 📦 Requirements
+
 Python 3.10+
 
 uv add openai-agents python-dotenv
