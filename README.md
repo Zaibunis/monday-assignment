@@ -70,4 +70,4 @@ uv add openai-agents python-dotenv
 
 uv-package-manager
 
-**Made with ❤ by [Faria Mustaqim](https://github.com/Zaibunis)
+**Made with ❤ by [Faria Mustaqim](https://github.com/Zaibunis)**
