@@ -1,13 +1,13 @@
-**📝 OpenAI Agents Assignments**
+# 📝 OpenAI Agents Assignments
 This repository includes three mini-projects using the OpenAI Agents SDK, each demonstrating a unique agent use-case with tools, orchestration, and agent handoff logic.
 
-# ⿡ Smart Store Agent
+**⿡ Smart Store Agent**
 📄 File: product_suggester.py
 
-# 🔍 Description
+**🔍 Description**
 An AI agent that suggests a product (e.g. medicine) based on user needs or symptoms.
 
-# ✅ Example
+**✅ Example**
 User: I have a headache
 Agent: You may try Panadol. It's effective for headaches due to its paracetamol content.
 
@@ -19,14 +19,14 @@ uv run product_suggester.py
 # ⿢ Mood Analyzer with Handoff
 📄 File: mood_handoff.py
 
-# 🔍 Description
+**🔍 Description**
 A multi-agent setup where:
 
 Agent 1 analyzes the user's mood
 
 Agent 2 suggests an activity if the user is sad or stressed
 
-# ✅ Example
+**✅ Example**
 User: I'm feeling low today
 → Mood: Sad
 → Suggested Activity: Try journaling or taking a walk.
@@ -39,10 +39,10 @@ uv run mood_handoff.py
 # ⿣ Country Info Bot (Using Tools)
 📄 File: country_info_toolkit.py
 
-# 🔍 Description
+**🔍 Description**
 Uses tool agents to provide complete information about a country.
 
-# 🧰 Tools
+**🧰 Tools**
 Capital Tool 🏛
 
 Language Tool 🗣
@@ -51,7 +51,7 @@ Population Tool 👥
 
 An orchestrator agent uses all three tools to compile a full summary.
 
-# ✅ Example
+**✅ Example**
 User: Pakistan
 → Capital: Islamabad
 → Language: Urdu
